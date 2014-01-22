@@ -1,2 +1,5 @@
-*/.gradle/*/taskArtifacts/*
-*/build/*
+*/.gradle/*/taskArtifacts/
+*/build/
+*/.classpath
+*/.project
+*/.settings/
